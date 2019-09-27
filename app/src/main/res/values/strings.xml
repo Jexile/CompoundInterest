@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMessenger</string>
+    <string name="calculate">Calculate</string>
+    <string name="hint1">Original Investment</string>
+    <string name="hint2">Interest Rate as Decimal</string>
+    <string name="hint3">Times Compounded per Year</string>
+    <string name="hint4">Number of Years</string>
+</resources>
